@@ -4,7 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "francisco-filho",
-  "repository": "git@github.com:francisco-filho/vs-hello-world.git",
+  "repository": "https://github.com/francisco-filho/vs-hello-world.git",
   "engines": {
     "vscode": "^1.98.0"
   },
